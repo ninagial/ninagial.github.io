@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I taught myself programming in 2010 and I love it ever since.
 
-### More Information
+### Things I like
 
-A place to include any other types of information that you'd like to include about yourself.
+Writing Problems for Educational Attainment
+Writing Attitude Surveys
+Designing Experiments
+Analyzing Data
+Learning Languages
+Learning Math
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ninagial@psyget.gr](mailto:ninagial@psyget.gr)

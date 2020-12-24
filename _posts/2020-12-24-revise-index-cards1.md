@@ -3,6 +3,12 @@ layout: post
 title: I made a small revision script for index cards in python
 ---
 
+
+
+
+
+Some notes on [this Python script](https://github.com/ninagial/flashcards) I wrote in order to revise larger, and more structured, decks of index cards.
+
 # Motivation
 
 Every now and then I need to learn some complex stuff. In some areas, or for specific tasks, memorization is useful, if not absolutely necessary.

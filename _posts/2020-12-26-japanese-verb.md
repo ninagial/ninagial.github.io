@@ -47,13 +47,14 @@ Or perhaps the level at which it happens in English is not that obvious to the s
 
 Japanese is an agglutinative language, with a finite set of open syllables (syllables that only consist of a consonant and a vowel.) With few exceptions, these _moras_ make up the whole language.
 
-<table>
-  <tr> <td align="right"> 1 </td> <td> a </td> <td> ka </td> <td> sa </td> <td> ta </td> <td> na </td> <td> ra </td> <td> ma </td> <td> wa </td> <td> ya </td> </tr>
-  <tr> <td align="right"> 2 </td> <td> e </td> <td> ke </td> <td> se </td> <td> te </td> <td> ne </td> <td> re </td> <td> me </td> <td>  </td> <td>  </td> </tr>
-  <tr> <td align="right"> 3 </td> <td> i </td> <td> ki </td> <td> si </td> <td> tsi </td> <td> ni </td> <td> ri </td> <td> mi </td> <td>  </td> <td>  </td> </tr>
-  <tr> <td align="right"> 4 </td> <td> o </td> <td> ko </td> <td> so </td> <td> to </td> <td> no </td> <td> ro </td> <td> mo </td> <td> wo </td> <td> yo </td> </tr>
-  <tr> <td align="right"> 5 </td> <td> u </td> <td> ku </td> <td> su </td> <td> tsu </td> <td> nu </td> <td> ru </td> <td> mu </td> <td>  </td> <td> yu </td> </tr>
-   </table>
+| 1 | a | ka | sa | ta  | na | ra | ma | wa | ya |
+|---|---|----|----|-----|----|----|----|----|----|
+| 2 | e | ke | se | te  | ne | re | me |    |    |
+| 3 | i | ki | si | tsi | ni | ri | mi |    |    |
+| 4 | o | ko | so | to  | no | ro | mo | wo | yo |
+| 5 | u | ku | su | tsu | nu | ru | mu |    | yu |
+{: rules="groups"}
+
 Now, since most verbs end in **u** (taberu: eat, miru: see, iu: speak, kiku:hear, suru:do, shiru:think, etc), this 'u' might come from a _ku_, a _ru_, an _ou_, and so on and so forth, so different inflection paradigms apply depending on what sound collisions, mergers etc, are allowed in a language phonotactics.
 
 This is not exotic at all: It is, to my knowledge, quite common in Greek, Spanish, and other European languages.
@@ -66,6 +67,7 @@ This is not exotic at all: It is, to my knowledge, quite common in Greek, Spanis
 | Stem ends in a vowel |    omou    |  omowanai  |  omoimasu   |    omoimasen    |
 |   Stem ends in a K   |    kiku    |  kikanai   |  kikimasu   |    kikimasen    |
 |   Stem ends in a R   |  tsukuru   | tsukuranai | tsukurimasu |  tsukurimasen   |
+{: rules="groups"}
 
 And so on and so forth.
 
@@ -79,9 +81,8 @@ Now, I am still in the process of doing this, and I will explore the topic in fu
 
 But the motivation is **"What would it look like if we filled in the Latin verbs' table with the Japanese pragmatic/semantic equivalent?"** I think that for native speakers of Greek, Italian, Spanish, and similar languages, the learning experience could be more comfortable. I know this is tha case for me!
 
-|   Indicative   |||||
-|----------------|||||
-
+|   Indicative   |
+|----------------|
 | Present-Future ||||taberu|
 |      Past      ||||tabeta|
 | Present-Future |Negative|||tabenai|
@@ -90,10 +91,10 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 |      Past      ||Polite||tabemashita|
 | Present-Future |Negative|Polite||tabemasen|
 |      Past      |Negative|Polite||tabemasen deshita|
+{: rules="groups"}
 
-|  Subjunctive   |||||
-|----------------|||||
-
+|  Subjunctive   |
+|----------------|
 | Present-Future ||||tabeyou|
 |      Past      ||||tabetaro|
 | Present-Future |Negative|||tabenai darou|
@@ -102,10 +103,10 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 |      Past      ||Polite||tabeta deshou|
 | Present-Future |Negative|Polite||tabenai deshou|
 |      Past      |Negative|Polite||tabenakatta deshou|
+{: rules="groups"}
 
 |   Imperative   |||||
 |----------------|||||
-
 | Present-Future ||||tabero|
 |      Past      |||||
 | Present-Future |Negative|||taberu na|
@@ -114,6 +115,7 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 |      Past      ||Polite|||
 | Present-Future |Negative|Polite||tabenai de kudasai|
 |      Past      |Negative|Polite|||
+{: rules="groups"}
  
 # Things missing from this table
  

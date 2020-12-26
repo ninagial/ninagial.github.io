@@ -62,6 +62,7 @@ This is not exotic at all: It is, to my knowledge, quite common in Greek, Spanis
 
 |                      | Indicative |  Negative  |   Polite    | Negative Polite |
 |----------------------|------------|------------|-------------|-----------------|
+
 | Stem ends in a vowel |    omou    |  omowanai  |  omoimasu   |    omoimasen    |
 |   Stem ends in a K   |    kiku    |  kikanai   |  kikimasu   |    kikimasen    |
 |   Stem ends in a R   |  tsukuru   | tsukuranai | tsukurimasu |  tsukurimasen   |
@@ -80,6 +81,7 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 
 |   Indicative   |||||
 |----------------|||||
+
 | Present-Future ||||taberu|
 |      Past      ||||tabeta|
 | Present-Future |Negative|||tabenai|
@@ -88,8 +90,10 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 |      Past      ||Polite||tabemashita|
 | Present-Future |Negative|Polite||tabemasen|
 |      Past      |Negative|Polite||tabemasen deshita|
+
 |  Subjunctive   |||||
 |----------------|||||
+
 | Present-Future ||||tabeyou|
 |      Past      ||||tabetaro|
 | Present-Future |Negative|||tabenai darou|
@@ -98,8 +102,10 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 |      Past      ||Polite||tabeta deshou|
 | Present-Future |Negative|Polite||tabenai deshou|
 |      Past      |Negative|Polite||tabenakatta deshou|
+
 |   Imperative   |||||
 |----------------|||||
+
 | Present-Future ||||tabero|
 |      Past      |||||
 | Present-Future |Negative|||taberu na|

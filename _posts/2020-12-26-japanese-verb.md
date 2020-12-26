@@ -65,7 +65,7 @@ This is not exotic at all: It is, to my knowledge, quite common in Greek, Spanis
 | **Stem ends in a vowel** | omou       | omowanai   | omoimasu    | omoimasen       |
 | **Stem ends in a K**     | kiku       | kikanai    | kikimasu    | kikimasen       |
 | **Stem ends in a R**     | tsukuru    | tsukuranai | tsukurimasu | tsukurimasen    |
-{: rules="groups"}
+{: rules="tablelines"}
 
 And so on and so forth.
 

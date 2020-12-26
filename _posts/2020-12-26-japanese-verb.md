@@ -60,12 +60,11 @@ This is not exotic at all: It is, to my knowledge, quite common in Greek, Spanis
 
 (Like in ancient Greek, you get different tables for verb stems ending in r or l, a vowel, another consonant, but if you know the "collision" rules and the suffixes, you can work them out even if you don't remember. This is what I had based my previous conjugators off - because I did them without a database of the actual word forms. I should review and upload these projects at some point if anyone is interested.)
 
-<table>
-<tr> <th> </th> <th> Indicative </th> <th> Negative </th> <th> Polite </th> <th> Negative Polite </th> </td>
-<tr> <td> Stem ends in a vowel </td> <td> **omou** </td> <td> **omowanai** </td> <td> **omoimasu** </td> <td> **omoimasen** </td> </tr>
-<tr> <td> Stem ends in a K </td> <td> **kiku** </td> <td> **kikanai** </td> <td> **kikimasu** </td> <td> **kikimasen** </td> </tr>
-<tr> <td> Stem ends in a R </td> <td> **tsukuru** </td> <td> **tsukuranai** </td> <td> **tsukurimasu** </td> <td> **tsukurimasen** </td> </tr>
-</table>
+|                      | Indicative |  Negative  |   Polite    | Negative Polite |
+|----------------------|------------|------------|-------------|-----------------|
+| Stem ends in a vowel |    omou    |  omowanai  |  omoimasu   |    omoimasen    |
+|   Stem ends in a K   |    kiku    |  kikanai   |  kikimasu   |    kikimasen    |
+|   Stem ends in a R   |  tsukuru   | tsukuranai | tsukurimasu |  tsukurimasen   |
 
 And so on and so forth.
 
@@ -79,35 +78,34 @@ Now, I am still in the process of doing this, and I will explore the topic in fu
 
 But the motivation is **"What would it look like if we filled in the Latin verbs' table with the Japanese pragmatic/semantic equivalent?"** I think that for native speakers of Greek, Italian, Spanish, and similar languages, the learning experience could be more comfortable. I know this is tha case for me!
 
-<table border=1>
-  <tr> <th> Indicative </th> </tr>
-  <tr> <td> Present-Future </td> <td> </td> <td> </td> <td>  </td> <td>  taberu </td> </tr>
-  <tr> <td> Past </td> <td> </td> <td> </td> <td>  </td> <td> tabeta </td> </tr>
-  <tr> <td> Present-Future </td> <td> Negative </td> <td> </td> <td>  </td> <td>  tabenai </td> </tr>
-  <tr> <td> Past </td> <td> Negative </td> <td> </td> <td>  </td> <td> tabenakata  </td> </tr>
-  <tr> <td> Present-Future </td> <td> </td> <td> Polite </td> <td>  </td> <td> tabemasu </td> </tr>
-  <tr> <td> Past </td> <td> </td> <td> Polite </td> <td>  </td> <td> tabemashita  </td> </tr>
-  <tr> <td> Present-Future </td> <td> Negative </td> <td> Polite </td> <td>  </td> <td> tabemasen </td> </tr>
-  <tr> <td> Past </td> <td> Negative </td> <td> Polite </td> <td>  </td> <td> tabemasen deshita </td> </tr>
-  <tr> <th> Subjunctive </th> </tr>
-  <tr> <td> Present-Future </td> <td> </td> <td> </td> <td>  </td> <td> tabeyou </td> </tr>
-  <tr>  <td> Past </td> <td> </td> <td> </td> <td>  </td> <td> tabetaro </td> </tr>
-  <tr>  <td> Present-Future </td> <td> Negative </td> <td> </td> <td>  </td> <td> tabenai darou </td> </tr>
-  <tr>  <td> Past </td> <td> Negative </td> <td> </td> <td>  </td> <td> tabenakatta darou </td> </tr>
-  <tr>  <td> Present-Future </td> <td> </td> <td> Polite </td> <td>  </td> <td> tabemashou </td> </tr>
-  <tr>  <td> Past </td> <td> </td> <td> Polite </td> <td>  </td> <td> tabeta deshou </td> </tr>
-  <tr>  <td> Present-Future </td> <td> Negative </td> <td> Polite </td> <td>  </td> <td> tabenai deshou </td> </tr>
-  <tr>  <td> Past </td> <td> Negative </td> <td> Polite </td> <td>  </td> <td> tabenakatta deshou </td> </tr>
-  <tr> <th> Imperative </th> </tr>
-  <tr>  <td> Present-Future </td> <td> </td> <td> </td> <td>  </td> <td> tabero </td> </tr>
-  <tr>  <td> Past </td> <td> </td> <td> </td> <td>  </td> <td> </td> </tr>
-  <tr>  <td> Present-Future </td> <td> Negative </td> <td> </td> <td>  </td> <td> taberu na  </td> </tr>
-  <tr>  <td> Past </td> <td> Negative </td> <td> </td> <td>  </td> <td>  </td> </tr>
-  <tr>  <td> Present-Future </td> <td> </td> <td> Polite </td> <td>  </td> <td> tabete kudasai </td> </tr>
-  <tr>  <td> Past </td> <td> </td> <td> Polite </td> <td>  </td> <td>  </td> </tr>
-  <tr>  <td> Present-Future </td> <td> Negative </td> <td> Polite </td> <td>  </td> <td> tabenai de kudasai  </td> </tr>
-  <tr>  <td> Past </td> <td> Negative </td> <td> Polite </td> <td>  </td> <td>  </td> </tr>
- </table>
+|   Indicative   |
+|----------------|
+| Present-Future ||||taberu|
+|      Past      ||||tabeta|
+| Present-Future |Negative|||tabenai|
+|      Past      |Negative|||tabenakata|
+| Present-Future ||Polite||tabemasu|
+|      Past      ||Polite||tabemashita|
+| Present-Future |Negative|Polite||tabemasen|
+|      Past      |Negative|Polite||tabemasen deshita|
+|  Subjunctive   |
+| Present-Future ||||tabeyou|
+|      Past      ||||tabetaro|
+| Present-Future |Negative|||tabenai darou|
+|      Past      |Negative|||tabenakatta darou|
+| Present-Future ||Polite||tabemashou|
+|      Past      ||Polite||tabeta deshou|
+| Present-Future |Negative|Polite||tabenai deshou|
+|      Past      |Negative|Polite||tabenakatta deshou|
+|   Imperative   |
+| Present-Future ||||tabero|
+|      Past      |||||
+| Present-Future |Negative|||taberu na|
+|      Past      |Negative||||
+| Present-Future ||Polite||tabete kudasai|
+|      Past      ||Polite|||
+| Present-Future |Negative|Polite||tabenai de kudasai|
+|      Past      |Negative|Polite|||
  
 # Things missing from this table
  

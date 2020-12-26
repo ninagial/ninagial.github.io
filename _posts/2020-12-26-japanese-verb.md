@@ -47,12 +47,11 @@ Or perhaps the level at which it happens in English is not that obvious to the s
 
 Japanese is an agglutinative language, with a finite set of open syllables (syllables that only consist of a consonant and a vowel.) With few exceptions, these _moras_ make up the whole language.
 
-| 1 | a | ka | sa | ta  | na | ra | ma | wa | ya |
-|---|---|----|----|-----|----|----|----|----|----|
-| 2 | e | ke | se | te  | ne | re | me |    |    |
-| 3 | i | ki | si | tsi | ni | ri | mi |    |    |
-| 4 | o | ko | so | to  | no | ro | mo | wo | yo |
-| 5 | u | ku | su | tsu | nu | ru | mu |    | yu |
+| a | ka | sa | ta  | na | ra | ma | wa | ya |
+| e | ke | se | te  | ne | re | me |    |    |
+| i | ki | si | tsi | ni | ri | mi |    |    |
+| o | ko | so | to  | no | ro | mo | wo | yo |
+| u | ku | su | tsu | nu | ru | mu |    | yu |
 {: rules="groups"}
 
 Now, since most verbs end in **u** (taberu: eat, miru: see, iu: speak, kiku:hear, suru:do, shiru:think, etc), this 'u' might come from a _ku_, a _ru_, an _ou_, and so on and so forth, so different inflection paradigms apply depending on what sound collisions, mergers etc, are allowed in a language phonotactics.
@@ -61,12 +60,11 @@ This is not exotic at all: It is, to my knowledge, quite common in Greek, Spanis
 
 (Like in ancient Greek, you get different tables for verb stems ending in r or l, a vowel, another consonant, but if you know the "collision" rules and the suffixes, you can work them out even if you don't remember. This is what I had based my previous conjugators off - because I did them without a database of the actual word forms. I should review and upload these projects at some point if anyone is interested.)
 
-|                      | Indicative |  Negative  |   Polite    | Negative Polite |
-|----------------------|------------|------------|-------------|-----------------|
-
-| Stem ends in a vowel |    omou    |  omowanai  |  omoimasu   |    omoimasen    |
-|   Stem ends in a K   |    kiku    |  kikanai   |  kikimasu   |    kikimasen    |
-|   Stem ends in a R   |  tsukuru   | tsukuranai | tsukurimasu |  tsukurimasen   |
+|                          | Indicative | Negative   | Polite      | Negative Polite |
+|--------------------------|------------|------------|-------------|-----------------|
+| **Stem ends in a vowel** | omou       | omowanai   | omoimasu    | omoimasen       |
+| **Stem ends in a K**     | kiku       | kikanai    | kikimasu    | kikimasen       |
+| **Stem ends in a R**     | tsukuru    | tsukuranai | tsukurimasu | tsukurimasen    |
 {: rules="groups"}
 
 And so on and so forth.
@@ -79,16 +77,19 @@ Since we established that speaking a language serves to communicate events and m
 
 Now, I am still in the process of doing this, and I will explore the topic in future posts as well.
 
-But the motivation is **"What would it look like if we filled in the Latin verbs' table with the Japanese pragmatic/semantic equivalent?"** I think that for native speakers of Greek, Italian, Spanish, and similar languages, the learning experience could be more comfortable. I know this is tha case for me!
+But the motivation is **"What would it look like if we filled in the Latin verbs' table with the Japanese pragmatic/semantic equivalent?"** I think that for native speakers of Greek, Italian, Spanish, and similar languages, the learning experience could be more comfortable. I know this is the case for me!
 
 |   Indicative   |
 |----------------|
 | Present-Future ||||taberu|
 |      Past      ||||tabeta|
+|
 | Present-Future |Negative|||tabenai|
-|      Past      |Negative|||tabenakata|
+|      Past      |Negative|||tabenakatta|
+|
 | Present-Future ||Polite||tabemasu|
 |      Past      ||Polite||tabemashita|
+|
 | Present-Future |Negative|Polite||tabemasen|
 |      Past      |Negative|Polite||tabemasen deshita|
 {: rules="groups"}
@@ -97,10 +98,13 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 |----------------|
 | Present-Future ||||tabeyou|
 |      Past      ||||tabetaro|
+|
 | Present-Future |Negative|||tabenai darou|
 |      Past      |Negative|||tabenakatta darou|
+|
 | Present-Future ||Polite||tabemashou|
 |      Past      ||Polite||tabeta deshou|
+|
 | Present-Future |Negative|Polite||tabenai deshou|
 |      Past      |Negative|Polite||tabenakatta deshou|
 {: rules="groups"}
@@ -109,10 +113,13 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 |----------------|||||
 | Present-Future ||||tabero|
 |      Past      |||||
+|
 | Present-Future |Negative|||taberu na|
 |      Past      |Negative||||
+|
 | Present-Future ||Polite||tabete kudasai|
 |      Past      ||Polite|||
+|
 | Present-Future |Negative|Polite||tabenai de kudasai|
 |      Past      |Negative|Polite|||
 {: rules="groups"}
@@ -125,19 +132,16 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 
 As in Greek, Spanish, and English, different configurations of timing and conjecture about things we don't know actually happened give rise to different manners of speaking about such, hypothetical events.
 
-**If A had happened in the past, but it didn't, I would have done B.**
-
-**If A happens (in the future), I will do that.**
+- **If A had happened in the past, but it didn't, I would have done B.**
+- **If A happens (in the future), I will do that.**
 
 ## Aspect
 
 Notice the difference between the following:
 
-**I am currently cooking.**
-
-**I cooked already.**
-
-**I have been travelling back and forth to Greece.**
+- **I am currently cooking.**
+- **I cooked already.**
+- **I have been travelling back and forth to Greece.**
 
 This is the aspect. 
 

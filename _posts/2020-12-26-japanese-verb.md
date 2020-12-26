@@ -78,8 +78,8 @@ Now, I am still in the process of doing this, and I will explore the topic in fu
 
 But the motivation is **"What would it look like if we filled in the Latin verbs' table with the Japanese pragmatic/semantic equivalent?"** I think that for native speakers of Greek, Italian, Spanish, and similar languages, the learning experience could be more comfortable. I know this is tha case for me!
 
-|   Indicative   |
-|----------------|
+|   Indicative   |||||
+|----------------|||||
 | Present-Future ||||taberu|
 |      Past      ||||tabeta|
 | Present-Future |Negative|||tabenai|
@@ -88,7 +88,8 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 |      Past      ||Polite||tabemashita|
 | Present-Future |Negative|Polite||tabemasen|
 |      Past      |Negative|Polite||tabemasen deshita|
-|  Subjunctive   |
+|  Subjunctive   |||||
+|----------------|||||
 | Present-Future ||||tabeyou|
 |      Past      ||||tabetaro|
 | Present-Future |Negative|||tabenai darou|
@@ -97,7 +98,8 @@ But the motivation is **"What would it look like if we filled in the Latin verbs
 |      Past      ||Polite||tabeta deshou|
 | Present-Future |Negative|Polite||tabenai deshou|
 |      Past      |Negative|Polite||tabenakatta deshou|
-|   Imperative   |
+|   Imperative   |||||
+|----------------|||||
 | Present-Future ||||tabero|
 |      Past      |||||
 | Present-Future |Negative|||taberu na|
